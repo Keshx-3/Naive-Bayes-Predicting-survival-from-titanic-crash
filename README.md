@@ -18,4 +18,4 @@ The dataset used is the Titanic dataset, which includes the following features:
 ### 4. Results
 
 ## Conclusion
-- This project demonstrates how to implement a Naive Bayes classifier for predicting survival based on the Titanic dataset. The model shows an accuracy of around 78% with reasonable performance across cross-validation folds
+- This project demonstrates how to implement a Naive Bayes classifier for predicting survival based on the Titanic dataset. The model shows an accuracy of around 81% with reasonable performance across cross-validation folds
